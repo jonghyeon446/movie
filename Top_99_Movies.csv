@@ -1,0 +1,100 @@
+Movie,Year of release,Run time,Genre,imdb rating,Gross total(M)
+The Godfather,1972,175,"Crime, Drama",9.2,134.97
+The Silence of the Lambs,1991,118,"Crime, Drama, Thriller",8.6,130.74
+Star Wars: Episode V - The Empire Strikes Back,1980,124,"Action, Adventure, Fantasy",8.7,290.48
+The Shawshank Redemption,1994,142,Drama,9.3,28.34
+The Shining,1980,146,"Drama, Horror",8.4,44.02
+Casablanca,1942,102,"Drama, Romance, War",8.5,1.02
+One Flew Over the Cuckoo's Nest,1975,133,Drama,8.7,112
+Indiana Jones and the Raiders of the Lost Ark,1981,115,"Action, Adventure",8.4,248.16
+The Lord of the Rings: The Return of the King,2003,201,"Action, Adventure, Drama",9,377.85
+Star Wars: Episode IV - A New Hope,1977,121,"Action, Adventure, Fantasy",8.6,322.74
+The Dark Knight,2008,152,"Action, Crime, Drama",9,534.86
+The Godfather: Part II,1974,202,"Crime, Drama",9,57.3
+Aliens,1986,137,"Action, Adventure, Sci-Fi",8.4,85.16
+Schindler's List,1993,195,"Biography, Drama, History",9,96.9
+Inception,2010,148,"Action, Adventure, Sci-Fi",8.8,292.58
+The Lord of the Rings: The Fellowship of the Ring,2001,178,"Action, Adventure, Drama",8.8,315.54
+Alien,1979,117,"Horror, Sci-Fi",8.5,78.9
+Some Like It Hot,1959,121,"Comedy, Music, Romance",8.2,25
+Blade Runner,1982,117,"Action, Drama, Sci-Fi",8.1,32.87
+Se7en,1995,127,"Crime, Drama, Mystery",8.6,100.13
+Apocalypse Now,1979,147,"Drama, Mystery, War",8.5,83.47
+12 Angry Men,1957,96,"Crime, Drama",9,4.36
+The Lord of the Rings: The Two Towers,2002,179,"Action, Adventure, Drama",8.8,342.55
+Terminator 2: Judgment Day,1991,137,"Action, Sci-Fi",8.6,204.84
+Star Wars: Episode VI - Return of the Jedi,1983,131,"Action, Adventure, Fantasy",8.3,309.13
+Die Hard,1988,132,"Action, Thriller",8.2,83.01
+Gone with the Wind,1939,238,"Drama, Romance, War",8.2,198.68
+Taxi Driver,1976,114,"Crime, Drama",8.2,28.26
+Pulp Fiction,1994,154,"Crime, Drama",8.9,107.93
+The Bridge on the River Kwai,1957,161,"Adventure, Drama, War",8.2,44.91
+The Lion King,1994,88,"Animation, Adventure, Drama",8.5,422.78
+North by Northwest,1959,136,"Action, Adventure, Mystery",8.3,13.28
+Rear Window,1954,112,"Mystery, Thriller",8.5,36.76
+Léon: The Professional,1994,110,"Action, Crime, Drama",8.5,19.5
+Back to the Future,1985,116,"Adventure, Comedy, Sci-Fi",8.5,210.61
+Citizen Kane,1941,119,"Drama, Mystery",8.3,1.59
+Goodfellas,1990,145,"Biography, Crime, Drama",8.7,46.84
+Memento,2000,113,"Mystery, Thriller",8.4,25.54
+American Beauty,1999,122,Drama,8.4,130.1
+As Good as It Gets,1997,139,"Comedy, Drama, Romance",7.7,148.48
+Forrest Gump,1994,142,"Drama, Romance",8.8,330.25
+Singin' in the Rain,1952,103,"Comedy, Musical, Romance",8.3,8.82
+Braveheart,1995,178,"Biography, Drama, History",8.4,75.6
+Saving Private Ryan,1998,169,"Drama, War",8.6,216.54
+Rain Man,1988,133,Drama,8,178.8
+The King's Speech,2010,118,"Biography, Drama, History",8,138.8
+2001: A Space Odyssey,1968,149,"Adventure, Sci-Fi",8.3,56.95
+Kill Bill: Vol. 1,2003,111,"Action, Crime, Drama",8.2,70.1
+Avanti!,1972,144,"Comedy, Romance",7.2,3.3
+"The Good, the Bad and the Ugly",1966,178,"Adventure, Western",8.8,6.1
+Amélie,2001,122,"Comedy, Romance",8.3,33.23
+Modern Times,1936,87,"Comedy, Drama, Romance",8.5,0.16
+Lost in Translation,2003,102,"Comedy, Drama",7.7,44.59
+Full Metal Jacket,1987,116,"Drama, War",8.3,46.36
+Requiem for a Dream,2000,102,Drama,8.3,3.64
+Fight Club,1999,139,Drama,8.8,37.03
+No Country for Old Men,2007,122,"Crime, Drama, Thriller",8.2,74.28
+Django Unchained,2012,165,"Drama, Western",8.4,162.18
+Children of Men,2006,109,"Action, Drama, Sci-Fi",7.9,35.55
+Ratatouille,2007,111,"Animation, Adventure, Comedy",8.1,206.45
+The Lives of Others,2006,137,"Drama, Mystery, Thriller",8.4,11.29
+The Prestige,2006,130,"Drama, Mystery, Sci-Fi",8.5,53.09
+V for Vendetta,2005,132,"Action, Drama, Sci-Fi",8.2,70.51
+Chinatown,1974,130,"Drama, Mystery, Thriller",8.2,8.49
+City of God,2002,130,"Crime, Drama",8.6,7.56
+To Have and Have Not,1944,100,"Adventure, Comedy, Film-Noir",7.8,5.53
+Fargo,1996,98,"Crime, Thriller",8.1,24.61
+Life of Pi,2012,127,"Adventure, Drama, Fantasy",7.9,124.99
+Slumdog Millionaire,2008,120,"Crime, Drama, Romance",8,141.32
+Vertigo,1958,128,"Mystery, Romance, Thriller",8.3,3.2
+Trainspotting,1996,93,Drama,8.1,16.5
+Interstellar,2014,169,"Adventure, Drama, Sci-Fi",8.6,188.08
+The Thing,1982,109,"Horror, Mystery, Sci-Fi",8.2,13.78
+The Third Man,1949,93,"Film-Noir, Mystery, Thriller",8.1,0.45
+12 Monkeys,1995,129,"Mystery, Sci-Fi, Thriller",8,57.14
+Life Is Beautiful,1997,116,"Comedy, Drama, Romance",8.6,57.6
+The Pianist,2002,150,"Biography, Drama, Music",8.5,32.57
+Magnolia,1999,188,Drama,8,22.46
+The Dark Knight Rises,2012,164,"Action, Drama",8.4,448.14
+Star Wars: Episode VII - The Force Awakens,2015,138,"Action, Adventure, Sci-Fi",7.8,936.66
+The Hobbit: The Desolation of Smaug,2013,161,"Adventure, Fantasy",7.8,258.37
+Mad Max: Fury Road,2015,120,"Action, Adventure, Sci-Fi",8.1,154.06
+12 Years a Slave,2013,134,"Biography, Drama, History",8.1,56.67
+Indiana Jones and the Last Crusade,1989,127,"Action, Adventure",8.2,197.17
+"O Brother, Where Art Thou?",2000,107,"Adventure, Comedy, Crime",7.7,45.51
+Inglourious Basterds,2009,153,"Adventure, Drama, War",8.3,120.54
+The Departed,2006,151,"Crime, Drama, Thriller",8.5,132.28
+A Beautiful Mind,2001,135,"Biography, Drama",8.2,170.74
+District 9,2009,112,"Action, Sci-Fi, Thriller",7.9,155.65
+The Piano,1993,121,"Drama, Music, Romance",7.5,40.16
+Mystic River,2003,138,"Crime, Drama, Mystery",7.9,90.14
+The Insider,1999,157,"Biography, Drama, Thriller",7.8,28.97
+L.A. Confidential,1997,138,"Crime, Drama, Mystery",8.2,64.62
+Heat,1995,170,"Action, Crime, Drama",8.3,67.44
+The Usual Suspects,1995,106,"Crime, Drama, Mystery",8.5,23.34
+Cool Hand Luke,1967,127,"Crime, Drama",8.1,16.22
+Eternal Sunshine of the Spotless Mind,2004,108,"Drama, Romance, Sci-Fi",8.3,34.4
+City Lights,1931,87,"Comedy, Drama, Romance",8.5,0.02
+The Matrix,1999,136,"Action, Sci-Fi",8.7,171.48
